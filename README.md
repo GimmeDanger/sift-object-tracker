@@ -1,7 +1,6 @@
 # sift-object-tracker
-Hometask: find object location and track it using webcam
 
-Purpose: find object location on webcam frame ans track it with opencv lib
+Purpose: find object location on webcam frame and track it with opencv lib
 
 Required libs: opencv with opencv_contrib modules (sift features)
 
